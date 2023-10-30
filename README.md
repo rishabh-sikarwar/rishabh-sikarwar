@@ -1,7 +1,11 @@
  👋  Hi, I’m @rishabh-sikarwar
+ <br>
  👀  I’m interested in web development
- 🌱  I’m currently learning Javascript-
+  <br>
+ 🌱  I’m currently learning Javascript
+  <br>
  💞️  I’m looking to collaborate on frontend
+  <br>
  📫  you can reach me on email  rishabhsikarwar1000@gmail.com
 
 <!---
