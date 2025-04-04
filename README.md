@@ -1,39 +1,45 @@
-<h1 align="center">Hey there! 👋 I'm Rishabh Sikarwar</h1>
+# 👋 Hey there, I'm Rishabh Sikarwar
 
-<p align="center">
-  🚀 Frontend Developer | 💻 JavaScript Enthusiast | 🌐 Passionate about Web Technologies
-</p>
-
----
-
-### 🔍 About Me
-
-- 👨‍💻 I’m currently diving deep into **JavaScript** and modern web technologies.
-- 🌱 Always learning and exploring tools to build **beautiful** and **efficient** UIs.
-- 🤝 Looking to collaborate on **frontend projects** that challenge and inspire!
-- 📫 Reach me at: **rishabhsikarwar1000@gmail.com**
+🚀 Passionate Web Developer | 📍 India  
+🎓 6th Semester | 3rd Year @ MITS Gwalior
 
 ---
 
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white)
+## 🌟 About Me
+- 🔧 Focused on crafting clean, scalable, and responsive web apps.
+- 💻 Proficient in **JavaScript**, **React**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and more.
+- 🔁 Constantly exploring new tools, libraries, and backend technologies.
+- 🤝 Open to collaborations on **frontend**, **full-stack**, or **open-source** projects.
+- 🎯 Currently building real-world full-stack projects and leveling up with every commit.
 
 ---
 
-### 🌐 Let's Connect
-
-- 📧 Email: **rishabhsikarwar1000@gmail.com**
-- 🌍 Portfolio (coming soon)
-- 💬 Feel free to drop a message—I'm always open to ideas, collabs, or just a good tech convo!
+## 🛠️ Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
+</div>
 
 ---
 
-> ✨ “Code. Create. Innovate.” ✨
+## 📫 Let's Connect
+- 📧 Email: [rishabhsikarwar1000@gmail.com](mailto:rishabhsikarwar1000@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-sikarwar) *(optional: add your link)*  
+- 🌐 [My Portfolio](https://portfolio-rishabh-sikarwars-projects.vercel.app/)
 
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+<!---
+rishabh-sikarwar/rishabh-sikarwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
