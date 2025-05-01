@@ -32,9 +32,9 @@
 
 ## 📫 Let's Connect
 - 📧 Email: [rishabhsikarwar1000@gmail.com](mailto:rishabhsikarwar1000@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishabhsikarwar/) 
-- 📄 [View My Resume](https://drive.google.com/file/d/1VWkC0cJOGt6YCZTuH-18DFS4iK43Kpj2/view)
-- 🌐 [My Portfolio](https://portfolio-rishabh-sikarwars-projects.vercel.app/)
+- 💼 <a href="https://www.linkedin.com/in/rishabhsikarwar/" target="_blank">LinkedIn</a>
+- 🌐 <a href="https://portfolio-rishabh-sikarwars-projects.vercel.app/" target="_blank">My Portfolio</a>
+- 📄 <a href="https://drive.google.com/file/d/1VWkC0cJOGt6YCZTuH-18DFS4iK43Kpj2/view" target="_blank">View My Resume</a>
 
 ---
 
