@@ -38,7 +38,7 @@
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Building my life by Design , not by Default.”
 
 <!---
 rishabh-sikarwar/rishabh-sikarwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
